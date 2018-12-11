@@ -2,6 +2,6 @@ full-build:
   deps:
 
   build:
-    target: 
-    configuration: 
+    target: None
+    configuration: None
 
